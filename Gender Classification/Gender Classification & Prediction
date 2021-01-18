@@ -1,7 +1,0 @@
-# Gender Classification, Prediction based on Tweets
-
-Using <b> three classification algorithms </b>, comparing accuracy, and finding which one is the <b>best model </b> for the given dataset (based on accuracy). <br>
-
-Dependent varible: <b> Gender </b> <br>
-
-<b> Ensemble Learning || Logistic Regression || SVM || Random Forest || Accuracy calculation || Evaluation </b>
